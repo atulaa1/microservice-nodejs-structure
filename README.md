@@ -11,4 +11,5 @@ This repository to build the project structure which is microservice architechur
 6. [Authentication and authorization by jwt](https://medium.com/swlh/jwt-authentication-authorization-in-nodejs-express-mongodb-rest-apis-2019-ad14ec818122)
 7. [The service registry](https://auth0.com/blog/an-introduction-to-microservices-part-3-the-service-registry/)
 8. [Nodejs load balancing](https://medium.com/techintoo/load-balancing-node-js-51b854fb4f4f)
-9. [ELK stack for logging]
+9. [ELK stack for logging]((https://logz.io/blog/elastic-stack-windows/))
+10. [Simple sample](https://medium.com/@cramirez92/build-a-nodejs-cinema-microservice-and-deploying-it-with-docker-part-1-7e28e25bfa8b)
